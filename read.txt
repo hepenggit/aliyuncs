@@ -1,0 +1,10 @@
+  aliyuncs 文件夹 是php sdk 
+aliyuncs.php  是使用sdk 实现 文字与图片的过滤。
+文字过滤文档：https://help.aliyun.com/document_detail/53431.html
+图片过滤文档：https://help.aliyun.com/document_detail/53428.html
+
+
+
+
+
+test.php 是 使用 http请求 在线使用（文档：https://help.aliyun.com/document_detail/107743.html）。
